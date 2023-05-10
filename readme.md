@@ -3,8 +3,8 @@
 An introduction to programming using a language called Python. 
 
 ## Weeks
-- [ ] Week 0 - Functions, Variables
-- [ ] Week 1 - Conditionals
+- [x] Week 0 - Functions, Variables
+- [x] Week 1 - Conditionals
 - [ ] Week 2 - Loops
 - [ ] Week 3 - Exceptions
 - [ ] Week 4 - Libraries
