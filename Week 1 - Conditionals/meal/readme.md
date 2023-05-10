@@ -28,10 +28,6 @@ If up for a challenge, optionally add support for 12-hour times, allowing the us
 - #:## a.m. and ##:## a.m.
 - #:## p.m. and ##:## p.m.
 
-<span style="color:green">
-<h2>Challenge Accepted!</h2>
-</span>
-
 ## My solution
 
 - main:
