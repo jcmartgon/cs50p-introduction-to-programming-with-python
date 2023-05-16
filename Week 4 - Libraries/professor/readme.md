@@ -138,15 +138,15 @@ if __name__ == "__main__":
 
 ## Output Expected
 
-![OutputExpected](Resources/output_expected.png)
+![OutputExpected](resources/output_expected.png)
 
 ## Output Obtained
 
-![As expected](Resources/output_obtained.png)
+![As expected](resources/output_obtained.png)
 
 ## Score
 
-![All good](./Resources/score.png)
+![All good](./resources/score.png)
 
 ## Usage
 
