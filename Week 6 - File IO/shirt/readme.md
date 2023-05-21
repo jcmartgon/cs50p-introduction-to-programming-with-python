@@ -103,4 +103,4 @@ if __name__ == '__main__':
 
 ## Usage
 
-1. Run 'pytest shirt.py *before after* on your command-line.
+1. Run 'python shirt.py *before after* on your command-line.

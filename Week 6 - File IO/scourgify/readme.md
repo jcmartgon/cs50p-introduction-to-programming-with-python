@@ -175,4 +175,4 @@ Lavender,Brown,Gryffindor
 
 ## Usage
 
-1. Run 'pythone scourgify.py *before.csv after.csv* on your command-line.
+1. Run 'python scourgify.py *before.csv after.csv* on your command-line.
